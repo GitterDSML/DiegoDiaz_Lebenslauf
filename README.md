@@ -122,27 +122,48 @@ Italienisch: Grundlagen
 ### Sonstige Fähigkeiten
 
 Data Science MS Azure Fundamentals - 09.09.2024 Weiterbildung (AZ900 INT)
+
 AWS Cloud - 16.09.2024 Weiterbildung (Cloud Practitioner AWS INT)
+
 Microsoft Power Platform - 23.09.2024 Weiterbildung (PL900 INT)
+
 ELT - API/Power BI
+
 Python
+
 SQL
+
 Open CV
+
 Slack
+
 GitHub
 
 ### Portfolio 
+
 hxttps://github.com/
 
-### Weitere Kompetenzen Projektmanagement
+### Weitere Kompetenzen 
+
+Projektmanagement
+
 Scrum PSM1 / Scrum.org
+
 Design Thinking
+
 Interkulturelle Kommunikation
+
 Problemlösekompetenz
+
 Solidworks
+
 Catia
+
 SAP
+
 Kanban
+
 Lernbereitschaft
+
 Analytisches Denken
 
