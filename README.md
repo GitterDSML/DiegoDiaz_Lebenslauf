@@ -113,7 +113,7 @@ Open CV
 Slack
 GitHub
 
-Portfolio https://github.com/
+Portfolio hxttps://github.com/
 
 Weitere Kompetenzen Projektmanagement
 Scrum PSM1 / Scrum.org
