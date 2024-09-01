@@ -93,7 +93,7 @@ Ermüdungsanalyse von Fahrzeugrahmenstrukturen.
 "Verbrennungsmotoren" an der Universität Modena und Reggio Emilia, Italien.
 Optimierung von Verbrennungsmotoren und Ventilsystemen.
 
-###Sprachen
+### Sprachen
 
 Spanisch: Muttersprache
 Deutsch: Verhandlungssicher
@@ -101,7 +101,7 @@ Englisch: Verhandlungssicher
 Französisch: Grundlagen
 Italienisch: Grundlagen
 
-###Sonstige Fähigkeiten
+### Sonstige Fähigkeiten
 
 Data Science MS Azure Fundamentals - 09.09.2024 Weiterbildung (AZ900 INT)
 AWS Cloud - 16.09.2024 Weiterbildung (Cloud Practitioner AWS INT)
@@ -113,9 +113,9 @@ Open CV
 Slack
 GitHub
 
-Portfolio hxttps://github.com/
+### Portfolio hxttps://github.com/
 
-Weitere Kompetenzen Projektmanagement
+### Weitere Kompetenzen Projektmanagement
 Scrum PSM1 / Scrum.org
 Design Thinking
 Interkulturelle Kommunikation
