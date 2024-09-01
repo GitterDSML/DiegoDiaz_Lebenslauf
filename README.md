@@ -1,11 +1,13 @@
 # Lebenslauf 09-2024
 
-### Linkedin profile : https://www.linkedin.com/in/diego-diaz-
-318731166/
+### Linkedin profile : 
+
+https://www.linkedin.com/in/diego-diaz-318731166/
 
 ### Beruflicher Werdegang
 
-Oktober 2021 – August 2023 
+#### Oktober 2021 – August 2023 
+
 Resident Engineer bei Fagor Ederlan Tafalla S.Coop, Spanien.
 
 Implementierung einer digitalen Datenverarbeitungs- und
@@ -20,6 +22,7 @@ Assessment, CAPA ) // Konfliktmanagement
 Umsetzung von Sicherungsmaßnahmen (Lieferantenorganisation)
 
 August 2018 – September 2021
+
 Resident Engineer bei Rednec GmbH, Köln.
 
 Qualitätssicherungsberater für Projekte mit verschiedenen Kunden (Ford-
@@ -31,6 +34,7 @@ Umsetzung von Sicherungsmaßnahmen (Lieferantenorganisation)
 Prozessoptimierung
 
 Juli 2017 - Dezember 2017 
+
 Development Engineer bei TI Automotive Technology Center GmbH, Rastatt.
 
 Prototype konstruieren und entwickeln
