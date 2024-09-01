@@ -57,11 +57,73 @@ Testen von Öl- und Gasbohrungen (Projektmanagement)
 Datenerfassung
 Datenberichterstattung und –analyse
 
-### Work experince
-Data Scientist 
-- A
-- B
+### Ausbildung und Praktika
 
-  ### Projects
-- ONE
-- TWO
+November 2023 – Juli 2024 Data Scientist bei DataScientest (online Bildungsträger).
+Explorative Statistik // Datenvisualisierung
+Klassifizierung // Regressionsmethoden
+Computer Vision mit OpenCV // Mlflow // Neuronale Netze
+Data API Fundamentals
+GDPR und Ethik der KI
+
+März 2022 – Oktober 2023 Executive MBA an der Westfield Business School WBS in Miami, USA, und der
+
+Escuela Internacional de Gerencia EIG in Granada, Spanien.
+EMBA mit Schwerpunkt auf transformationalem Führung und
+Unternehmertum
+TBL-Praktiken (People, Planet, Profit)
+
+April 2013 – April 2017 M.Sc. Maschinenbau am KIT (Karlsruher Institut für Technologie), nicht
+
+abgeschlossen
+Schwerpunkt auf IP (Integrated Product Development) am IPEK (Institut für
+Produktentwicklung und Konstruktion), abgeschlossen
+
+August 2005 – Mai 2010 B.Sc. Maschinenbau am ITESM (Instituto Tecnologico de Estudios Superiores
+
+de Monterrey), Chihuahua, Mexiko
+Abschluss als "Ingeniero Mecánico Administrador"
+Nebenfach in Betriebswirtschaft und Spezialisierung "Automotive"
+
+Juni 2009 – Juli 2009 Sommerkurse in Italien und Deutschland
+
+"Selected Topics in Automotive Engineering" an der Fakultät für
+Fahrzeugtechnik an der Hochschule Esslingen, Deutschland. Elektrofahrzeuge,
+Ermüdungsanalyse von Fahrzeugrahmenstrukturen.
+"Verbrennungsmotoren" an der Universität Modena und Reggio Emilia, Italien.
+Optimierung von Verbrennungsmotoren und Ventilsystemen.
+
+###Sprachen
+
+Spanisch: Muttersprache
+Deutsch: Verhandlungssicher
+Englisch: Verhandlungssicher
+Französisch: Grundlagen
+Italienisch: Grundlagen
+
+###Sonstige Fähigkeiten
+
+Data Science MS Azure Fundamentals - 09.09.2024 Weiterbildung (AZ900 INT)
+AWS Cloud - 16.09.2024 Weiterbildung (Cloud Practitioner AWS INT)
+Microsoft Power Platform - 23.09.2024 Weiterbildung (PL900 INT)
+ELT - API/Power BI
+Python
+SQL
+Open CV
+Slack
+GitHub
+
+Portfolio https://github.com/
+
+Weitere Kompetenzen Projektmanagement
+Scrum PSM1 / Scrum.org
+Design Thinking
+Interkulturelle Kommunikation
+Problemlösekompetenz
+Solidworks
+Catia
+SAP
+Kanban
+Lernbereitschaft
+Analytisches Denken
+
