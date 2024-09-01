@@ -96,9 +96,13 @@ Optimierung von Verbrennungsmotoren und Ventilsystemen.
 ### Sprachen
 
 Spanisch: Muttersprache
+
 Deutsch: Verhandlungssicher
+
 Englisch: Verhandlungssicher
+
 Französisch: Grundlagen
+
 Italienisch: Grundlagen
 
 ### Sonstige Fähigkeiten
@@ -113,7 +117,8 @@ Open CV
 Slack
 GitHub
 
-### Portfolio hxttps://github.com/
+### Portfolio 
+hxttps://github.com/
 
 ### Weitere Kompetenzen Projektmanagement
 Scrum PSM1 / Scrum.org
