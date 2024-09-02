@@ -1,5 +1,5 @@
 title: Diego Diaz
-logo: asset/images/Bewerbungsbild.jpg
+#logo: asset/images/Bewerbungsbild.jpg
 #description: text below image
-show_downloads: true
+#show_downloads: true
 theme: jekyll-theme-minimal
