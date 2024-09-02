@@ -1,7 +1,5 @@
 # September 2024 
 
-![Bewerbungsbild](https://github.com/user-attachments/assets/5c9aba50-15cb-4127-97a6-4003bfd1d10e)
-
 ### Linkedin profile : 
 
 https://www.linkedin.com/in/diego-diaz-318731166/
