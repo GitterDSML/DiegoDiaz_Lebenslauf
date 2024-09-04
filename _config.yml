@@ -4,3 +4,9 @@
 #how_downloads: true
 #google_analytics:
 #theme: jekyll-theme-minimal
+
+titel: Diego Diaz
+#logo: /assets/img/##picturefile##
+description: Data Scientist 
+show downloads: true 
+theme: jekyll-theme-minimal 
