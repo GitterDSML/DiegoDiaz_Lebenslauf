@@ -141,7 +141,7 @@ GitHub
 
 ### Portfolio 
 
-(https://github.com/GitterDSML)
+Repositories in GitHub (https://github.com/GitterDSML)
 
 ### Weitere Kompetenzen 
 
